@@ -146,6 +146,9 @@ response = requests.get(url)
 response.raise_for_status()
 
 text_data = response.text
+
+text_data = text_data[:1000]
+print(text_data)
 ```
 
 Run the code above to obtain the text and then write a Python program that tokenizes the content into words.
