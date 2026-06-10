@@ -140,6 +140,7 @@ Columns:
 ```
 <br>
 Risk Score: 
+
 ```
 0.6 × normalized(Amount)
 +
