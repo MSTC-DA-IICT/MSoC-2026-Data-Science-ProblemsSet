@@ -140,13 +140,14 @@ Columns:
 ```
 <br>
 Risk Score: 
-```txt
+```
 0.6 × normalized(Amount)
 +
 0.3 × normalized(TimeSpent)
 +
 0.1 × normalized(FailedAttempts)
 ```
+
 Return top K most risky users.
 <br>
 Input :
@@ -160,6 +161,7 @@ transactions =
 
 k = 2
 ```
+
 ---
 ## Submission Guidelines
 
