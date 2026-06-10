@@ -30,12 +30,6 @@ Mean = 3
 Max = 5
 ```
 
-### Concepts Covered
-
-* `np.sum()`
-* `np.mean()`
-* `np.max()`
-
 ---
 
 ## Problem 2: Even Number Filter
@@ -55,11 +49,6 @@ arr = np.array([1, 2, 3, 4, 5, 6])
 ```python
 [2, 4, 6]
 ```
-
-### Concepts Covered
-
-* Boolean Masking
-* Array Indexing
 
 ---
 
@@ -93,11 +82,6 @@ Row sums = [6, 15, 6]
 
 The second row has the largest sum, so its index is `1`.
 
-### Concepts Covered
-
-* `axis=1`
-* `np.sum()`
-* `np.argmax()`
 
 ---
 
@@ -134,12 +118,6 @@ Student 2 Average = 90
 ```
 
 Students `0` and `2` have average marks greater than `75`.
-
-### Concepts Covered
-
-* Row-wise Mean
-* Boolean Masking
-* `np.where()`
 
 ---
 ## Problem 5 Network Traffic Anomaly Detection (Very Hard Version) 
