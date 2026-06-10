@@ -1,6 +1,6 @@
 # MSOC NumPy Problem Set
 
-Welcome to the NumPy Problem Set! 🚀
+Welcome to the NumPy Problem Set! 
 
 This problem set is designed to help you practice the fundamental concepts of NumPy, one of the most important libraries in Python for numerical computing and data analysis.
 
