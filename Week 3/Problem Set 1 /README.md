@@ -8,7 +8,6 @@ This problem set is designed to help you practice the fundamental concepts of Nu
 
 ## Problem 1: Array Statistics
 
-### Objective
 
 Given a NumPy array, find:
 
@@ -34,8 +33,6 @@ Max = 5
 
 ## Problem 2: Even Number Filter
 
-### Objective
-
 Given a NumPy array, return only the even numbers.
 
 ### Example
@@ -54,7 +51,6 @@ arr = np.array([1, 2, 3, 4, 5, 6])
 
 ## Problem 3: Row With Maximum Sum
 
-### Objective
 
 Given a 2D NumPy array, find the index of the row having the largest sum.
 
@@ -80,14 +76,11 @@ arr = np.array([
 Row sums = [6, 15, 6]
 ```
 
-The second row has the largest sum, so its index is `1`.
-
 
 ---
 
 ## Problem 4: Student Performance Analysis
 
-### Objective
 
 Each row represents a student and each column represents marks in a subject.
 
@@ -117,7 +110,6 @@ Student 1 Average = 60
 Student 2 Average = 90
 ```
 
-Students `0` and `2` have average marks greater than `75`.
 
 ---
 ## Problem 5 Network Traffic Anomaly Detection (Very Hard Version) 
