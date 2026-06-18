@@ -192,4 +192,4 @@ After completing this problem set, students will be able to:
 * Use GroupBy operations.
 * Extract meaningful insights from real-world data.
 
-Happy Learning with Pandas! 🚀
+Happy Learning with Pandas!
