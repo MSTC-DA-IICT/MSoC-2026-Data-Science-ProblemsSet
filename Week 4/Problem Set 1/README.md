@@ -1,8 +1,8 @@
-# MSoc Pandas Problem Set
+# MSoC Pandas Problem Set
 
 ## Overview
 
-This problem set is designed to help students learn Pandas progressively. The first three problems focus on Pandas fundamentals using manually created DataFrames. The last three problems use a real-world dataset to perform data analysis.
+This problem set is designed to help you learn Pandas progressively. The first three problems focus on Pandas fundamentals using manually created DataFrames. The last three problems use a real-world dataset to perform data analysis.
 
 ---
 
@@ -181,7 +181,7 @@ Titanic Dataset
 
 # Expected Learning Outcomes
 
-After completing this problem set, students will be able to:
+After completing this problem set, You will be able to:
 
 * Create and manipulate DataFrames.
 * Select and filter data efficiently.
